@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eleicao-brasil/static/css/main.aba84eb3.css",
-    "main.js": "/eleicao-brasil/static/js/main.9cdfe5de.js",
-    "static/js/787.a0d66add.chunk.js": "/eleicao-brasil/static/js/787.a0d66add.chunk.js",
-    "index.html": "/eleicao-brasil/index.html",
-    "main.aba84eb3.css.map": "/eleicao-brasil/static/css/main.aba84eb3.css.map",
-    "main.9cdfe5de.js.map": "/eleicao-brasil/static/js/main.9cdfe5de.js.map",
-    "787.a0d66add.chunk.js.map": "/eleicao-brasil/static/js/787.a0d66add.chunk.js.map"
+    "main.css": "/brazilianpreselectionsimulator/static/css/main.aba84eb3.css",
+    "main.js": "/brazilianpreselectionsimulator/static/js/main.5ae249b7.js",
+    "static/js/787.a0d66add.chunk.js": "/brazilianpreselectionsimulator/static/js/787.a0d66add.chunk.js",
+    "index.html": "/brazilianpreselectionsimulator/index.html",
+    "main.aba84eb3.css.map": "/brazilianpreselectionsimulator/static/css/main.aba84eb3.css.map",
+    "main.5ae249b7.js.map": "/brazilianpreselectionsimulator/static/js/main.5ae249b7.js.map",
+    "787.a0d66add.chunk.js.map": "/brazilianpreselectionsimulator/static/js/787.a0d66add.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aba84eb3.css",
-    "static/js/main.9cdfe5de.js"
+    "static/js/main.5ae249b7.js"
   ]
 }
