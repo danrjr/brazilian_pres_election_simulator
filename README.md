@@ -1,4 +1,4 @@
-# Web site
+# Web Site
 https://danrjr.github.io/brazilianpreselectionsimulator/
 
 # Getting Started with Create React App
